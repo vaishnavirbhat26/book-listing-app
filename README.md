@@ -120,6 +120,12 @@ The API tetsing - testing of API endpoints and backend server is done using Post
 
    ![image](https://github.com/vaishnavirbhat26/book-listing-app/assets/112920991/ac60163c-7885-41fc-bbe8-dae99b8a4566)
 
+## Challenges 
+
+On the 16th and 17rh of Jan, the MongoDB server was unpredictable. I had to create databases from scratch and connect to the server and client scripts to code and connect them properly. I tried creating and connecting with MySQL database. 
+There was delay in updation of snapshots on 17th. The status of the cluster was All good on 18th though. 
+
+![image](https://github.com/vaishnavirbhat26/book-listing-app/assets/112920991/94ae1dff-05b9-4842-b432-ea767a7b589e)
 
 
 
