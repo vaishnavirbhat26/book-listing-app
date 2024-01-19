@@ -1,10 +1,12 @@
 # Book listing app
 This project is a full-stack web application for managing a collection of books. It features a user-friendly interface for displaying and manipulating book data and a robust back-end server with RESTful API and database integration.
 
-https://youtu.be/dwo3tENArDE => Video Link
+[Click here for the demo](https://youtu.be/dwo3tENArDE)
 
 ----------------------------------------------------------------------------------------------------------------------
 ### Features
+
+##### [Color Palette](https://www.color-hex.com/color-palette/7133)
 
 ##### Front-End (Client Side)
 - Frameworks used => React.js, Tailwind.css, Javascript
